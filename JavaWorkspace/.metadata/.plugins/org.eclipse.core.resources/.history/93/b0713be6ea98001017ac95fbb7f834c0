@@ -1,0 +1,36 @@
+package in.versionit;
+
+public class No07SumOfTheDigitsOfTheNumber {
+
+	public static void main(String[] args) {
+
+	
+		int num=153;
+		int rem,sum=0;
+		int temp=153;
+		
+		
+		while(num>0)
+		{
+			 rem=num%10;
+			 sum=sum+(rem*rem*rem);
+			 num=num/10;
+		}
+		
+		if(temp==sum)
+		{
+			System.out.println("ArmStrong Number");
+		}
+		else
+		{
+			System.out.println("Not a Armstrong Number");
+		}
+		
+		
+		
+
+		
+
+	}
+
+}

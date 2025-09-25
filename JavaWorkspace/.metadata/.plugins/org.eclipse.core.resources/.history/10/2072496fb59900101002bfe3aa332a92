@@ -1,0 +1,11 @@
+package in.versionit;
+public class Example1 {
+	
+	public static void main(String[] args) {
+		
+		String name1="hari";
+		String name2=new String("vijay");
+		
+	}
+
+}

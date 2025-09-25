@@ -1,0 +1,25 @@
+package in.versionit;
+
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class No06CheckArmStrongNumberOrNot {
+
+	public static void main(String[] args) {
+
+	
+		int num=153;
+		
+		while(num>0)
+		{
+			
+		}
+		
+		
+		
+
+		
+
+	}
+
+}

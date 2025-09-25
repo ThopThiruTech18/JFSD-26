@@ -1,0 +1,25 @@
+package in.versionit;
+
+public class No08GreatestOf3Numbers {
+
+	public static void main(String[] args) {
+
+		int a=10;
+		int b=30;
+		int c=20;
+		
+		if((a>b) && (a>c))
+		{
+			System.out.println("A is a greatest number");
+		}
+		else if((b>a) && (b>c))
+		{
+			System.out.println("B is a greatest number");
+		}
+		else if((c>a) && (c>b))
+		{
+			System.out.println("C is a greatest number");
+		}
+	}
+
+}

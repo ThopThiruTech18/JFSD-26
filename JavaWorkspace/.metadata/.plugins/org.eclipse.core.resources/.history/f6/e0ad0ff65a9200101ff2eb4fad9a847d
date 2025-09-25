@@ -1,0 +1,18 @@
+package in.thiruit;
+
+public class EnumSwitchExmple {
+
+	public static void main(String[] args) {
+		
+		Colors blue = Colors.BLUE;
+		
+		switch (blue) {
+		case BLUE: System.out.println("Selected Blue color");
+		case GREEN:System.out.println("Selecte Green Color");
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + blue);
+		}
+
+	}
+
+}

@@ -1,0 +1,142 @@
+Name 		:    	Mr.Thirumalesh
+Experience	 	: 	8+ Yrs(4-Companies)
+Tech Stack		:	Core Java, Java8,J2EE,
+					Spring ,SpringBoot, Microservice
+					
+					Html,Css,Js,Bootstrap,React,Angular
+					
+					Oracle,Mysql,Mongo
+					
+					Aws,azure,Gcp...(EC2,RDS,S3), Linux.
+					
+Position 		:   Tech Lead(MNC)
+
+--------------------------------------------------------------------------------
+JAVA FULL STACK PROGRAM
+---------------------------------------------------------------------------------
+Pre-Requisites 	: 	Consontration, Dedication, Time.
+
+Duration		: 	5 to 6Months.
+
+mode			: 	Online/Offlice
+
+
+Full Stack java = FrontEnd + Backend + Database + Deployment
+
+
+Module-1:
+----------
+	Backend Technlogies:
+					Core Java, 
+					Java8,
+					Mysql
+					J2EE(JDBC,JSP,SERVLET),
+					Spring ,SpringBoot, Microservice
+Module-2:
+----------
+    FrontEnd Technlogies:
+					Html,
+					Css,
+					Js,
+					Bootstrap,
+					React,
+					Angular
+
+Module-3:
+---------
+    RealTime Project(E-Commerce) + Realtimes Tools(15+)
+	Realtimes Tools:
+	-----------------
+	Github/Gitlab/BitBucket
+	Maven/Gradle   
+	Jira
+	Docker
+	K8s
+	Jenkins(CICD)
+	
+	
+	Github/Gitlab/BitBucket: It is a source code repository server.
+	Maven : Build automation tool
+	Jira : Task assignee software,
+		   Bug reporting tool,
+		   Project management tool.
+	Docker: Containerization sofware.
+	k8s   : Docker Container management sotware.
+	
+	
+Module-4:
+---------
+		1) ChatGPT.
+		2) Gemini
+		3) Deep Seek 
+		4) GitHub Copilot.
+		
+
+Language: Language is a mediator for the communication.
+---------
+		1) Human Languages
+		2) Programming languages
+		
+		1) Human Languages:
+		-------------------
+		One person wants to communicate with another person we are having Human laguages.
+        Ex: English,Telugu,Hindi.....
+
+		2) Programming languages:
+		-------------------------
+		One person wants to communicate with the machine/computer we are having programming langueges.
+	    
+		Ex: Java,Python,.net.....
+		
+		
+		Java:
+		-----
+		Java is a programming languege.
+		
+		James gosling is the team lead at the time of java program developement.
+		
+		Java is developed by sun microsystem.
+		
+		Java is developed in the year 1991.
+		
+		Java is cames into the market in the year of 1995.
+		
+		Oracle company purchase the java languege from java 6th version onwords.
+		
+		Now java sotware under the license of Oracle company.
+		
+		Java is free and open source.
+		
+		Java Feature:
+		-------------
+		Simple: Java is avoiding below complex topics .
+				Memory management.
+				Operator Overloading.
+				Pointers.
+		Platform Independent:
+		        Once we develop java code, We can run on any machine(OS).
+				Jvm:
+		Secure: By default out java architecture proving security.
+		Robust(Strong):
+						1)Automatic memory management 
+						2)Execption Handling
+		Distributed:
+					
+					Money Transfer  ->  5
+					Balance checking -> 5
+					Withdraw		-> 5
+					Secuiry			-> 5
+					
+	    Multithredded:
+				We can run our program paralelly.
+		OOPS: -> Object oriented system.
+			  -> in the java we can represent every thing object format.
+				
+		
+		
+
+
+
+
+
+

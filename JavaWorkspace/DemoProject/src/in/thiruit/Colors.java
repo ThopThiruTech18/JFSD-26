@@ -1,0 +1,3 @@
+package in.thiruit;
+
+public enum Colors {RED, GREEN, BLUE}

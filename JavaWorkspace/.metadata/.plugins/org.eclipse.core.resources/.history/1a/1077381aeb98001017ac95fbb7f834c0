@@ -1,0 +1,18 @@
+package in.versionit;
+
+public class No07SumOfTheDigitsOfTheNumber {
+
+	public static void main(String[] args) {
+
+		int num = 1234567;
+		int rem, sum = 0;
+
+		while (num > 0) {
+			rem = num % 10;
+			sum = sum + rem;
+			num = num / 10;
+		}
+
+	}
+
+}

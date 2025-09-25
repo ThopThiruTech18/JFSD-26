@@ -1,0 +1,18 @@
+package in.thiruit;
+
+public class Pattern2 {
+	
+	
+
+	public static void main(String[] args) {
+		
+		int  a=10;
+
+		System.out.println("Welcome to Hyderabad : "+a);
+		System.out.println("Welcome to Hyderabad");
+		System.out.println("Welcome to Hyderabad");
+		System.out.println("Welcome to Hyderabad");
+
+	}
+
+}

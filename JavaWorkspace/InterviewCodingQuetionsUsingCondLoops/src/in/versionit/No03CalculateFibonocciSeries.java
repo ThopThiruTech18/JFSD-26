@@ -1,0 +1,44 @@
+package in.versionit;
+
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class No03CalculateFibonocciSeries {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("Enter the number :");
+		int n = sc.nextInt(); //12321%10 ==>1232.1
+		
+		int rem,sum=0;
+		int temp=n;
+		
+		while(n>0)
+		{
+			rem=n%10;//12321,1232,123,1  //it will collect the  last value
+			sum=sum*10+rem;//12321
+			n=n/10; //123,12,1  //it will remove the last value
+		}
+		
+		if(temp==sum)
+		{
+			System.out.println("Polindrome");
+		}
+		else
+		{
+			System.out.println("Not a polindrome");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

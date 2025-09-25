@@ -1,0 +1,10 @@
+package in.thiruit;
+
+public class EnumSwitchExmple {
+	
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
