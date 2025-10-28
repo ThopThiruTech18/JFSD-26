@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="no01.versionit.method1.Calculator"/>
+    <fullyQualifiedTypeName name="no01.versionit.method1.Calculator1"/>
+    <fullyQualifiedTypeName name="no01.versionit.method2.Employee"/>
+    <fullyQualifiedTypeName name="no02.versionit.constructor1.Employee"/>
+    <fullyQualifiedTypeName name="no06.versionit.accessmodifiers1.A"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence1.Parent"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence1.Child"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence2.Child"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence2.Parent"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence2.GrandParent"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence3.Child1"/>
+    <fullyQualifiedTypeName name="no08.versionit.inheritence3.Parent"/>
 </qualifiedTypeNameHistroy>
